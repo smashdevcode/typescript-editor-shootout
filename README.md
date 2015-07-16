@@ -1,1 +1,2 @@
-# typescript-editor-shootout
+
+# TypeScript Editor Shootout
